@@ -1,4 +1,4 @@
-# App COntrol de Presupuesto💙
+# App Control de Presupuesto💙
 
 Esta aplicación es muy útil, ya que sirve para llevar un presupuesto diario o tal vez mensual sobre los gastos que tiene una persona. Para desarrollarla utilicé React. 
 
